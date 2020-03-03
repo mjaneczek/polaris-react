@@ -187,7 +187,7 @@ import {
   Truncate,
   UnstyledLink,
   VisuallyHidden,
-  VideoCard,
+  MediaCard,
   VideoThumbnail
 } from '@shopify/polaris';
 import {

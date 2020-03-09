@@ -408,6 +408,7 @@ export function TextField({
     'aria-autocomplete': ariaAutocomplete,
     'aria-controls': ariaControls,
     'aria-multiline': normalizeAriaMultiline(multiline),
+    'aria-label': label,
   });
 
   const backdropClassName = classNames(
